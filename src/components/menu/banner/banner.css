@@ -1,0 +1,67 @@
+#banner {
+  padding-top: 66px;
+  padding-bottom: 48px;
+}
+#banner .bancontent {
+  padding-top: 140px;
+}
+#banner .bancontent h1 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 80px;
+  letter-spacing: -1.8px;
+}
+#banner .bancontent p {
+  color: #64607d;
+  font-family: Manrope;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: -0.4px;
+  width: 446px;
+}
+.btn {
+  margin-top: 26px;
+  margin-left: -20px;
+  position: relative;
+}
+.btn .get {
+  padding: 15px 35px;
+  border-radius: 47px;
+  background: var(--Pallet-4-Primary, #3734a9);
+  color: #fff;
+  margin-right: 120px;
+}
+.btn .see i {
+  color: #22d497;
+  font-size: 60px;
+  position: absolute;
+  top: -10px;
+  left: 210px;
+}
+.btn .see {
+  color: var(--Pallet-4-Primary, #3734a9);
+  font-family: Manrope;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.34px;
+}
+.last h2 {
+  color: #000;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.last img {
+    margin-top: 36px;
+    margin-left: 114px;
+}
